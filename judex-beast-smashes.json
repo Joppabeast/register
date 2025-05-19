@@ -1,1 +1,10 @@
-
+{
+  "owner": {
+    "username": "Joppabeast",
+    "email": "[joppabeast@yahoo.com]"
+  },
+  "records": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
